@@ -1,0 +1,48 @@
+﻿@model project.ViewModels.VisistFriend
+
+@{
+    ViewBag.Title = "Viewpage";
+}
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <img class="circular_image" src=" @Html.DisplayFor(model => model.Friend.Image)" width="100" height="140" />
+        </dd>
+
+        <dd>
+            <h2>
+                @Html.DisplayFor(model => model.Friend.FirstName)
+                        @Html.DisplayFor(model => model.Friend.LastName)
+            </h2>
+        </dd>
+    </dl>
+
+</div>
+<div align="center">
+    @foreach (var item in Model.Images)
+    {
+        <div>
+            @Html.DisplayFor(modelItem => item.title)
+        </div>
+        <div>
+            <img src=" @Html.DisplayFor(modelItem => item.image)" width="450" height="450" />
+        </div>
+        <div>
+            @Html.ActionLink("Like", "Like", new { id = item.ID, id2 = Model.MainUser.ID, id3 = Model.Friend.ID },
+                new { @class = "btn btn-primary", @style = "color:white" }) |
+            @Html.ActionLink("DisLike", "DisLike", new { id = item.ID, id2 = Model.MainUser.ID, id3 = Model.Friend.ID },
+                            new { @class = "btn btn-danger", @style = "color:Black" })
+            @Html.ActionLink("Comment", "Comment", new { id = item.ID, id2 = Model.MainUser.ID, id3 = Model.Friend.ID },
+                            new { @class = "btn btn-primary", @style = "color:white" })
+        </div>
+        <hr />
+    }
+</div>
+
+
+
+<p>
+    @Html.ActionLink("Back To profile", "Index", Model.MainUser)
+</p>

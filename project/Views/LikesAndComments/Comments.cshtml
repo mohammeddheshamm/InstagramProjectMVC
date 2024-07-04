@@ -1,0 +1,49 @@
+﻿@model project.ViewModels.GetComments
+
+@{
+    ViewBag.Title = "Comments";
+}
+<div>
+    @Html.ActionLink("Back", "Index", "UserPage", Model.MainUser, null)
+</div>
+
+<h2>Comments</h2>
+
+<div>
+
+    @foreach (var item in Model.commentsOfImages)
+    {
+
+        <div>
+            <img class="circular_image2" src=" @Html.DisplayFor(modelItem => item.user.Image)" width="20" height="50" />
+
+            
+                @Html.DisplayFor(modelItem => item.user.FirstName)
+                @Html.DisplayFor(modelItem => item.user.LastName)
+
+        </div>
+        <div class="comment">
+            @Html.DisplayFor(modelItem => item.comment.comment)
+        </div>
+        <hr />
+
+    }
+
+</div>
+@*<table class="table">
+
+
+    @foreach (var item in Model.commentsOfImages)
+    {
+    <tr>
+        <td>
+            <img src=" @Html.DisplayFor(modelItem => item.user.Image)" width="80" height="120" />
+            @Html.DisplayFor(modelItem => item.user.FirstName)
+            @Html.DisplayFor(modelItem => item.user.LastName) : 
+              {@Html.DisplayFor(modelItem => item.comment.comment)}
+        </td>
+        
+    </tr>
+    }
+
+</table>*@

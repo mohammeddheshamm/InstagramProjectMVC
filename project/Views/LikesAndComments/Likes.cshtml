@@ -1,0 +1,44 @@
+﻿@model project.ViewModels.LikesAndDisLikes
+
+@{
+    ViewBag.Title = "Likes";
+}
+<div>
+    @Html.ActionLink("Back", "Index", "UserPage", Model.user,null)
+</div>
+
+<h2>Likes</h2>
+
+<div>
+
+    @foreach (var item in Model.friends)
+    {
+
+        <div>
+            <img class="circular_image2" src=" @Html.DisplayFor(modelItem => item.Image)" width="80" height="120" />
+
+           
+                @Html.DisplayFor(modelItem => item.FirstName)
+                @Html.DisplayFor(modelItem => item.LastName)
+            
+        </div>
+        <hr />
+
+    }
+
+</div>
+@*<table class="table">
+
+
+    @foreach (var item in Model.friends)
+    {
+        <tr>
+            <td>
+                <img src=" @Html.DisplayFor(modelItem => item.Image)" width="80" height="120" />
+                @Html.DisplayFor(modelItem => item.FirstName)
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+        </tr>
+    }
+
+</table>*@

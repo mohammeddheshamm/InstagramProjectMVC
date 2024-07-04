@@ -1,0 +1,321 @@
+E:\COLLEGE\ASP\project\project\bin\project.dll.config
+E:\COLLEGE\ASP\project\project\bin\project.dll
+E:\COLLEGE\ASP\project\project\bin\project.pdb
+E:\COLLEGE\ASP\project\project\bin\roslyn\csc.exe
+E:\COLLEGE\ASP\project\project\bin\roslyn\csc.exe.config
+E:\COLLEGE\ASP\project\project\bin\roslyn\csc.rsp
+E:\COLLEGE\ASP\project\project\bin\roslyn\csi.exe
+E:\COLLEGE\ASP\project\project\bin\roslyn\csi.exe.config
+E:\COLLEGE\ASP\project\project\bin\roslyn\csi.rsp
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COLLEGE\ASP\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.AppContext.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Collections.Immutable.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Console.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.IO.Compression.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.IO.FileSystem.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.IO.Pipes.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Reflection.Metadata.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.AccessControl.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Claims.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.ValueTuple.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Xml.XPath.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COLLEGE\ASP\project\project\bin\roslyn\vbc.exe
+E:\COLLEGE\ASP\project\project\bin\roslyn\vbc.exe.config
+E:\COLLEGE\ASP\project\project\bin\roslyn\vbc.rsp
+E:\COLLEGE\ASP\project\project\bin\roslyn\VBCSCompiler.exe
+E:\COLLEGE\ASP\project\project\bin\roslyn\VBCSCompiler.exe.config
+E:\COLLEGE\ASP\project\project\bin\EntityFramework.dll
+E:\COLLEGE\ASP\project\project\bin\EntityFramework.SqlServer.dll
+E:\COLLEGE\ASP\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COLLEGE\ASP\project\project\bin\Microsoft.Web.Infrastructure.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Helpers.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Mvc.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Razor.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.Deployment.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.dll
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.Razor.dll
+E:\COLLEGE\ASP\project\project\bin\EntityFramework.xml
+E:\COLLEGE\ASP\project\project\bin\EntityFramework.SqlServer.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Razor.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.Deployment.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Webpages.Razor.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Helpers.xml
+E:\COLLEGE\ASP\project\project\bin\System.Web.Mvc.xml
+E:\COLLEGE\ASP\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COLLEGE\ASP\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\COLLEGE\ASP\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\COLLEGE\ASP\project\project\obj\Debug\project.csproj.CopyComplete
+E:\COLLEGE\ASP\project\project\obj\Debug\project.dll
+E:\COLLEGE\ASP\project\project\obj\Debug\project.pdb
+E:\COLLEGE\ASP\project\project\obj\Debug\project.Migrations.user.resources
+E:\COLLEGE\ASP\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\COLLEGE\ASP\project\project\obj\Debug\project.Migrations.acc.resources
+E:\COLLEGE\ASP\project\project\obj\Debug\project.Migrations.acc1.resources
+E:\COLLEGE\ASP\project\project\obj\Debug\project.Migrations.initimage.resources
+E:\COLLEGE\ASP\project\project\obj\Debug\project.Migrations.friendship.resources
+E:\COLLEGE\Second Term\project\project\bin\project.dll.config
+E:\COLLEGE\Second Term\project\project\bin\project.dll
+E:\COLLEGE\Second Term\project\project\bin\project.pdb
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csc.exe
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csc.exe.config
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csc.rsp
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csi.exe
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csi.exe.config
+E:\COLLEGE\Second Term\project\project\bin\roslyn\csi.rsp
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COLLEGE\Second Term\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.AppContext.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Collections.Immutable.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Console.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.IO.Compression.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.IO.FileSystem.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.IO.Pipes.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Reflection.Metadata.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.AccessControl.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Claims.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.ValueTuple.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Xml.XPath.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COLLEGE\Second Term\project\project\bin\roslyn\vbc.exe
+E:\COLLEGE\Second Term\project\project\bin\roslyn\vbc.exe.config
+E:\COLLEGE\Second Term\project\project\bin\roslyn\vbc.rsp
+E:\COLLEGE\Second Term\project\project\bin\roslyn\VBCSCompiler.exe
+E:\COLLEGE\Second Term\project\project\bin\roslyn\VBCSCompiler.exe.config
+E:\COLLEGE\Second Term\project\project\bin\EntityFramework.dll
+E:\COLLEGE\Second Term\project\project\bin\EntityFramework.SqlServer.dll
+E:\COLLEGE\Second Term\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COLLEGE\Second Term\project\project\bin\Microsoft.Web.Infrastructure.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Helpers.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Mvc.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Razor.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.Deployment.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.dll
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.Razor.dll
+E:\COLLEGE\Second Term\project\project\bin\EntityFramework.xml
+E:\COLLEGE\Second Term\project\project\bin\EntityFramework.SqlServer.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Razor.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.Deployment.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Webpages.Razor.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Helpers.xml
+E:\COLLEGE\Second Term\project\project\bin\System.Web.Mvc.xml
+E:\COLLEGE\Second Term\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.user.resources
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.acc.resources
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.acc1.resources
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.initimage.resources
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.friendship.resources
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.csproj.CopyComplete
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.dll
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.pdb
+E:\COLLEGE\Second Term\project\project\obj\Debug\project.Migrations.likes.resources
+E:\COLLEGE\com\project\project\bin\project.dll.config
+E:\COLLEGE\com\project\project\bin\project.dll
+E:\COLLEGE\com\project\project\bin\project.pdb
+E:\COLLEGE\com\project\project\bin\roslyn\csc.exe
+E:\COLLEGE\com\project\project\bin\roslyn\csc.exe.config
+E:\COLLEGE\com\project\project\bin\roslyn\csc.rsp
+E:\COLLEGE\com\project\project\bin\roslyn\csi.exe
+E:\COLLEGE\com\project\project\bin\roslyn\csi.exe.config
+E:\COLLEGE\com\project\project\bin\roslyn\csi.rsp
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COLLEGE\com\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COLLEGE\com\project\project\bin\roslyn\System.AppContext.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Collections.Immutable.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Console.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.IO.Compression.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.IO.FileSystem.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.IO.Pipes.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Reflection.Metadata.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.AccessControl.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Claims.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.ValueTuple.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Xml.XPath.dll
+E:\COLLEGE\com\project\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COLLEGE\com\project\project\bin\roslyn\vbc.exe
+E:\COLLEGE\com\project\project\bin\roslyn\vbc.exe.config
+E:\COLLEGE\com\project\project\bin\roslyn\vbc.rsp
+E:\COLLEGE\com\project\project\bin\roslyn\VBCSCompiler.exe
+E:\COLLEGE\com\project\project\bin\roslyn\VBCSCompiler.exe.config
+E:\COLLEGE\com\project\project\bin\EntityFramework.dll
+E:\COLLEGE\com\project\project\bin\EntityFramework.SqlServer.dll
+E:\COLLEGE\com\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COLLEGE\com\project\project\bin\Microsoft.Web.Infrastructure.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Helpers.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Mvc.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Razor.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.Deployment.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.dll
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.Razor.dll
+E:\COLLEGE\com\project\project\bin\EntityFramework.xml
+E:\COLLEGE\com\project\project\bin\EntityFramework.SqlServer.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Razor.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.Deployment.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Webpages.Razor.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Helpers.xml
+E:\COLLEGE\com\project\project\bin\System.Web.Mvc.xml
+E:\COLLEGE\com\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COLLEGE\com\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.user.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.acc.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.acc1.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.initimage.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.friendship.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.likes.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.Migrations.comment.resources
+E:\COLLEGE\com\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\COLLEGE\com\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\COLLEGE\com\project\project\obj\Debug\project.csproj.CopyComplete
+E:\COLLEGE\com\project\project\obj\Debug\project.dll
+E:\COLLEGE\com\project\project\obj\Debug\project.pdb
+E:\project\project\bin\project.dll.config
+E:\project\project\bin\project.dll
+E:\project\project\bin\project.pdb
+E:\project\project\bin\roslyn\csc.exe
+E:\project\project\bin\roslyn\csc.exe.config
+E:\project\project\bin\roslyn\csc.rsp
+E:\project\project\bin\roslyn\csi.exe
+E:\project\project\bin\roslyn\csi.exe.config
+E:\project\project\bin\roslyn\csi.rsp
+E:\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\project\bin\roslyn\System.AppContext.dll
+E:\project\project\bin\roslyn\System.Collections.Immutable.dll
+E:\project\project\bin\roslyn\System.Console.dll
+E:\project\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\project\bin\roslyn\System.IO.Compression.dll
+E:\project\project\bin\roslyn\System.IO.FileSystem.dll
+E:\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\project\project\bin\roslyn\System.IO.Pipes.dll
+E:\project\project\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\project\bin\roslyn\System.Security.AccessControl.dll
+E:\project\project\bin\roslyn\System.Security.Claims.dll
+E:\project\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\project\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\project\bin\roslyn\System.ValueTuple.dll
+E:\project\project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\project\bin\roslyn\System.Xml.XPath.dll
+E:\project\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\project\bin\roslyn\vbc.exe
+E:\project\project\bin\roslyn\vbc.exe.config
+E:\project\project\bin\roslyn\vbc.rsp
+E:\project\project\bin\roslyn\VBCSCompiler.exe
+E:\project\project\bin\roslyn\VBCSCompiler.exe.config
+E:\project\project\bin\EntityFramework.dll
+E:\project\project\bin\EntityFramework.SqlServer.dll
+E:\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\project\bin\Microsoft.Web.Infrastructure.dll
+E:\project\project\bin\System.Web.Helpers.dll
+E:\project\project\bin\System.Web.Mvc.dll
+E:\project\project\bin\System.Web.Razor.dll
+E:\project\project\bin\System.Web.Webpages.Deployment.dll
+E:\project\project\bin\System.Web.Webpages.dll
+E:\project\project\bin\System.Web.Webpages.Razor.dll
+E:\project\project\bin\EntityFramework.xml
+E:\project\project\bin\EntityFramework.SqlServer.xml
+E:\project\project\bin\System.Web.Razor.xml
+E:\project\project\bin\System.Web.Webpages.xml
+E:\project\project\bin\System.Web.Webpages.Deployment.xml
+E:\project\project\bin\System.Web.Webpages.Razor.xml
+E:\project\project\bin\System.Web.Helpers.xml
+E:\project\project\bin\System.Web.Mvc.xml
+E:\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\project\project\obj\Debug\project.Migrations.user.resources
+E:\project\project\obj\Debug\project.Migrations.acc.resources
+E:\project\project\obj\Debug\project.Migrations.acc1.resources
+E:\project\project\obj\Debug\project.Migrations.initimage.resources
+E:\project\project\obj\Debug\project.Migrations.friendship.resources
+E:\project\project\obj\Debug\project.Migrations.likes.resources
+E:\project\project\obj\Debug\project.Migrations.comment.resources
+E:\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\project\project\obj\Debug\project.csproj.CopyComplete
+E:\project\project\obj\Debug\project.dll
+E:\project\project\obj\Debug\project.pdb

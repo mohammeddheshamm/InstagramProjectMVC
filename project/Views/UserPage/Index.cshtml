@@ -1,0 +1,75 @@
+﻿@model project.ViewModels.UserPageinfo
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Profile</h2>
+<p>
+    @Html.ActionLink("Edit Profile", "Edit", new { id = Model.user.ID }) |
+    @Html.ActionLink("Following", "Following", new { id = Model.user.ID }) |
+    @Html.ActionLink("Followers", "Followers", new { id = Model.user.ID }) |
+    @Html.ActionLink("Friends Requests", "FriendsRequests", new { id = Model.user.ID }) |
+    @Html.ActionLink("Find Friends", "Search", new { id = Model.user.ID })| 
+    @Html.ActionLink("Add Image", "Create", new { id = Model.user.ID }) 
+</p>
+
+<div>
+
+    <hr />
+    <h4>Personal information</h4>
+    <dl class="dl-horizontal">
+        <dd>
+            <img class="circular_image" src=" @Html.DisplayFor(model => model.user.Image)" width="100" height="140" />
+        </dd>
+        <dt>
+            Full Name:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.user.FirstName)
+            @Html.DisplayFor(model => model.user.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.Gender)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Mobile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.Mobile)
+        </dd>
+
+    </dl>
+    <hr />
+</div>
+<div align="center">
+    @foreach (var item in Model.images)
+    {
+        <div>
+            @Html.DisplayFor(modelItem => item.title)
+        </div>
+        <div>
+            <img src=" @Html.DisplayFor(modelItem => item.image)" width="450" height="450" />
+        </div>
+        <div>
+            @Html.ActionLink("Likes", "Likes", "LikesAndComments", new { imgid = item.ID, userid = Model.user.ID }, null) |
+            @Html.ActionLink("DisLikes", "DisLikes", "LikesAndComments", new { imgid = item.ID, userid = Model.user.ID }, null) |
+            @Html.ActionLink("Comments", "Comments", "LikesAndComments", new { imgid = item.ID, userid = Model.user.ID }, null)
+
+        </div>
+        <hr />
+    }
+</div>
+
